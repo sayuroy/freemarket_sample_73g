@@ -1,3 +1,91 @@
+# README
+![トップページ](https://user-images.githubusercontent.com/62546632/81910490-01f51d80-9607-11ea-9a1a-a94e09952d99.png)
+# このアプリについて
+・メルカリクローンのフリーマーケットアプリ
+<br>
+・TECH CAMP 73期短期メンバー５名にて作成
+<br>
+・制作期間:2020年　4月21日〜5月13日
+<br>
+・各担当箇所は以下に記載
+
+# 制作メンバー
+
+<a href="https://github.com/sayuroy"><h2>sayuroy</h2></a>
+<h3>実装内容</h3>
+スクラムマスター
+<br>
+商品購入ページ_マークアップ
+<br>
+商品出品機能_サーバーサイド&単体テスト
+<br>
+商品購入機能_サーバーサイド
+<br>
+クレジットカード登録（Payjp)
+<br>
+クレジットカード情報表示(Payjp)
+
+
+<a href="https://github.com/ryuso0720"><h2>ryuso0720</h2></a>
+<h3>実装内容</h3>
+ER図作成
+<br>
+README編集
+<br>
+テーブル作成
+<br>
+アソシエーション記述
+<br>
+商品詳細ページ_マークアップ
+<br>
+商品一覧表示_マークアップ&サーバーサイド
+<br>
+商品カテゴリー機能_マークアップ&サーバーサイド
+
+<a href="https://github.com/4145bjc"><h2>4145bjc</h2></a>
+<h3>実装内容</h3>
+デプロイ担当AWS EC2〜S3導入
+<br>
+Nginx,Unicorn,Capistrano導入
+<br>
+Basic認証
+<br>
+商品出品ページ_マークアップ
+<br>
+出品画像の複数投稿_サーバーサイド
+<br>
+出品画像のプレビュー機能
+
+<a href="https://github.com/pikarunrun"><h2>pikarunrun</h2></a>
+<h3>実装内容</h3>
+トップページ_マークアップ
+<br>
+ユーザー新規登録_サーバーサイド
+<br>
+商品詳細表示_サーバーサイド
+<br>
+商品削除機能
+<br>
+パンくず
+<br>
+商品検索機能
+<br>
+バリデーション記述
+<br>
+エラーハンドリング
+
+<a href="https://github.com/toraprogram"><h2>toraprogram</h2></a>
+<h3>実装内容</h3>
+ユーザー新規登録/ログインページ_マークアップ&サーバーサイド
+<br>
+ユーザー新規登録_単体テスト
+<br>
+商品情報編集
+<br>
+商品編集画像プレビュー表示
+<br>
+二重投稿防止機能
+
 # freemarket_sample_73g DB設計
 
 ## usersテーブル
