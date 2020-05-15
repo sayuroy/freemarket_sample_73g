@@ -87,11 +87,12 @@ Basic認証
 二重投稿防止機能
 
 
-# サイトURL（Basic認証キーがないと入れません）
+# サイトURL
 URL:<a href="http://18.180.239.6/">http://18.180.239.6/</a>
+（Basic認証キーがないと入れません）
 
-  
-  
+<br>
+<br>
 # freemarket_sample_73g DB設計
 
 ## usersテーブル
